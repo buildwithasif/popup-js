@@ -8,11 +8,11 @@ const actionBtn = document.getElementById('action-btn');
 // Funny Bangla Messages
 const funnyMessages = [
     {
-        title: "প্রথম ধাক্কা! ",
+        title: "hello",
         text: "ভাইরে ভাই! একটু পড়ালেখা বা কাজ করেন, সারাদিন ওয়েবসাইট ঘুরে কী হবে?"
     },
     {
-        title: "দ্বিতীয় ধাক্কা! ",
+        title: "hey ",
         text: "আপনি কি ভেবেছিলেন আবার আসবে না? আমি কিন্তু ১০ সেকেন্ড পরেই চলে এলাম!"
     },
     {
